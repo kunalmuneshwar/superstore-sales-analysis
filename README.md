@@ -59,3 +59,13 @@ Dataset → Data Cleaning (Python) → SQL Analysis (PostgreSQL) → Dashboard D
 ## Author
 
 Kunal Muneshwar
+
+## Dashboard Preview
+
+### Page 1 - Sales Dashboard
+
+![Dashboard Page 1](Dashboard_Page1.png)
+
+### Page 2 - Product & Profitability Analysis
+
+![Dashboard Page 2](Dashboard_Page2.png)
